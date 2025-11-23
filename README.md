@@ -17,7 +17,7 @@ Notre application vise à créer une interaction fluide et continue entre les m�
 
 ## User :
 ### 1.	Must have
-- [ ]L’utilisateur devrait créer un Compte (Hôpital, Clinique, Médecin, Pharmacie, Patient)
+- [x]L’utilisateur devrait créer un Compte (Hôpital, Clinique, Médecin, Pharmacie, Patient)
 	L’utilisateur devrait rechercher et prendre rendez-vous (avec un médecin spécialisé dans le domaine ou bien avec une clinique ou un hôpital accessible dans son région)
 	L’utilisateur (patient) devrait enregistrer son problème (par message texte ou note vocale)
 	L’utilisateur (médecin, hôpital ou clinique) peut faire une consultation rapide pour les symptômes simples
