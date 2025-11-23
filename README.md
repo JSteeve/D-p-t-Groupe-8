@@ -17,14 +17,14 @@ Notre application vise à créer une interaction fluide et continue entre les m�
 
 ## User :
 ### 1.	Must have
-- [ x ]L’utilisateur devrait créer un Compte (Hôpital, Clinique, Médecin, Pharmacie, Patient)
-	L’utilisateur devrait rechercher et prendre rendez-vous (avec un médecin spécialisé dans le domaine ou bien avec une clinique ou un hôpital accessible dans son région)
-	L’utilisateur (patient) devrait enregistrer son problème (par message texte ou note vocale)
-	L’utilisateur (médecin, hôpital ou clinique) peut faire une consultation rapide pour les symptômes simples
-	L’utilisateur (médecin, hôpital ou clinique) peut envoyer l’ordonnance via l’application
-	L’utilisateur (patient) peut commander les médicaments directement (à l'hôpital, dans la clinique ou directement)
-	L’utilisateur (patient) devrait avoir un bouton d’alerte pour contacter rapidement un hôpital proche.
-2.	Maybe
-	L’utilisateur (médecin, hôpital ou clinique) peut faire la promotion en postant du contenu audio/vidéo sur la santé (nutrition, VIH, tension, etc.)
-	L’utilisateur (médecin, hôpital ou clinique) peut consulter l’historique des visites, médicaments, analyses, etc.
-	L’utilisateur (patient) devrait pouvoir payer par MonCash, cartes bancaires ou transferts locaux
+- [x] L’utilisateur devrait créer un Compte (Hôpital, Clinique, Médecin, Pharmacie, Patient)
+- [ ] L’utilisateur devrait rechercher et prendre rendez-vous (avec un médecin spécialisé dans le domaine ou bien avec une clinique ou un hôpital accessible dans son région)
+- [ ] L’utilisateur (patient) devrait enregistrer son problème (par message texte ou note vocale)
+- [ ] L’utilisateur (médecin, hôpital ou clinique) peut faire une consultation rapide pour les symptômes simples
+- [ ] L’utilisateur (médecin, hôpital ou clinique) peut envoyer l’ordonnance via l’application
+- [ ] L’utilisateur (patient) peut commander les médicaments directement (à l'hôpital, dans la clinique ou directement)
+- [ ] L’utilisateur (patient) devrait avoir un bouton d’alerte pour contacter rapidement un hôpital proche.
+### 2.	Maybe
+- [ ] L’utilisateur (médecin, hôpital ou clinique) peut faire la promotion en postant du contenu audio/vidéo sur la santé (nutrition, VIH, tension, etc.)
+- [ ] L’utilisateur (médecin, hôpital ou clinique) peut consulter l’historique des visites, médicaments, analyses, etc.
+- [ ] L’utilisateur (patient) devrait pouvoir payer par MonCash, cartes bancaires ou transferts locaux
