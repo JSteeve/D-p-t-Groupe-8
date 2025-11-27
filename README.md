@@ -1,4 +1,4 @@
-# D-p-t-Groupe-8
+# Groupe-8 (Sante pam)
 
 ## Group Members :
 1.	Augustin Kettie
