@@ -28,3 +28,4 @@ Notre application vise à créer une interaction fluide et continue entre les m�
 - [ ] L’utilisateur (médecin, hôpital ou clinique) peut faire la promotion en postant du contenu audio/vidéo sur la santé (nutrition, VIH, tension, etc.)
 - [ ] L’utilisateur (médecin, hôpital ou clinique) peut consulter l’historique des visites, médicaments, analyses, etc.
 - [ ] L’utilisateur (patient) devrait pouvoir payer par MonCash, cartes bancaires ou transferts locaux
+![Groupe 8 (Sante pam)](https://github.com/user-attachments/assets/f6dc41cc-0933-40c5-9558-b25d24c0f90d)
